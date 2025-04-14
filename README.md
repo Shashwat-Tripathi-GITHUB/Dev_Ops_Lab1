@@ -85,8 +85,11 @@ git commit -m "Updated README before merging"
 git checkout main
 git merge feature1 -m "Merging feature1"
 ```
+###### Image 1
 ![Project Screenshot](./images/lab2_6.png)
+###### Image 2
 ![Project Screenshot](./images/lab2_7_git_merge.png)
+###### Image 3
 ![Project Screenshot](./images/lab2_8.png)
 
 ## LAB-3 SUBVERSION
