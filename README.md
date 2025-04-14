@@ -77,16 +77,17 @@ git push origin feature1
 ![Project Screenshot](./images/lab2_5_feature1.png)
 
 ### Merged with Main
-sh
+```sh
 git add README.md
 git commit -m "Updated README before merging"
 
 
 git checkout main
 git merge feature1 -m "Merging feature1"
-
-![Project Screenshot](./images/image10.png)
-
+```
+![Project Screenshot](./images/lab2_6.png)
+![Project Screenshot](./images/lab2_7_git_merge.png)
+![Project Screenshot](./images/lab2_8.png)
 
 ## LAB-3 SUBVERSION
 ### Installation of Subversion (SVN) using Homebrew:
