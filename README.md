@@ -41,40 +41,40 @@ diff diff && git status
 ## LAB-2 GIT COMMANDS
 ### 1. Checking the logs
 ### version1:
-sh
+```sh
 git add hello.txt
 git commit -m "v1"      
-
-![Project Screenshot](./images/image5.png)
+```
+![Project Screenshot](./images/lab2_1.png)
 
 ### version2:
-sh
+```sh
 git add hello.txt
 git commit -m "v2"      
-
-![Project Screenshot](./images/image6.png)
+```
+![Project Screenshot](./images/lab2_2.png)
 
 ### version3:
-sh
+```sh
 git add hello.txt
 git commit -m "v3"      
+```
+![Project Screenshot](./images/lab2_3.png)
 
-![Project Screenshot](./images/image7.png)
-
-sh
+```sh
 git log
-
-![Project Screenshot](./images/image8.png)
+```
+![Project Screenshot](./images/lab2_4_git_log.png)
 
 
 ### 2. Creating branch and merging with Main
-sh
+```sh
 git branch feature1
 git add .
 git commit -m "feature commit 1"
 git push origin feature1
-
-![Project Screenshot](./images/image9.png)
+```
+![Project Screenshot](./images/lab2_5_feature1.png)
 
 ### Merged with Main
 sh
