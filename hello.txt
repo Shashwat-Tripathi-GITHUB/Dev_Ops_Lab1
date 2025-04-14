@@ -6,3 +6,6 @@ Now this is the v2 of hello.txt
 
 This is after the commit of v2 of hello.txt
 Now this is the v3 of hello.txt
+
+
+Accessing the hello.txt to update something from feature1 branch will then merge this to the main branch
