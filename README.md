@@ -94,7 +94,7 @@ git merge feature1 -m "Merging feature1"
 
 ## Lab-3 Submodules
 #### This is the Repository with the Submodules Experiment.
-![Repository Link] (https://github.com/Shashwat-Tripathi-GITHUB/Main_Submodules)
+https://github.com/Shashwat-Tripathi-GITHUB/Main_Submodules
 
 ## LAB-4 SUBVERSION
 ### Installation of Subversion (SVN) using Homebrew:
